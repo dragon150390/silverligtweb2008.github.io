@@ -11,8 +11,7 @@ email: jamebond.nguyen@gmail.com
 twitter_username: silverlightweb
 github_username:  silverlightweb
 gplus_username:  loremipsum
-linkedin_public_url: '/silverlightweb2008/' # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: 
+linkedin_public_url: 'silverlightweb2008/' # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 profile_picture: https://vignette.wikia.nocookie.net/onepiece/images/b/b1/Thousand_Sunny_Infobox.png/
 
 # Build settings
@@ -63,7 +62,7 @@ projects:
     url: 
   - name: tensorflow_learning 
     url: 
-  - name: chamsocda
+  - name: Machine learning
     url: 
 
 # exclude my node related stuff
