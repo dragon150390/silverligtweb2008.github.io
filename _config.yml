@@ -1,0 +1,70 @@
+# Site settings
+title: Phuong Nguyen (SilverlightWeb2008) - Web Developer
+description: "I'm a developer"
+baseurl: "https://silverlightweb.github.io" # for test: remove string '/space-jekyll-template' to ''
+url: "https://silverlightweb.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+
+# User settings
+username: silverlightweb
+user_title: Phuong Nguyen (SilverlightWeb2008) - Web Developer
+email: jamebond.nguyen@gmail.com
+twitter_username: silverlightweb
+github_username:  silverlightweb
+gplus_username:  loremipsum
+linkedin_public_url: 'https://www.linkedin.com/in/silverlightweb2008/' # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+disqus_username: 
+#   profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+links:
+  section_1:
+    - title: home
+      url: /
+      key_trigger: 1
+    - title: my posts
+      url: /posts
+      key_trigger: 2
+    - title: series
+      url: /series
+      key_trigger: 3
+    - title: tags
+      url: /tags
+      key_trigger: 4
+    - title: about me
+      url: /about
+      key_trigger: 5
+  section_2:
+    - title: github
+      url:
+      new_tab: true
+      key_trigger: g
+    - title: twitter
+      url: 
+      key_trigger: t
+    - title: search
+      url: ""
+      key_trigger: s #WARNING: search only works with "s"
+
+# projects in header index
+projects:
+  - name: fluany
+    url: 
+  - name: vim-frontend
+    url: 
+  - name: generator-capybara
+    url: 
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
