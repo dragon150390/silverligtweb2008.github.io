@@ -5,7 +5,7 @@ baseurl: "https://silverlightweb.github.io" # for test: remove string '/space-je
 url: "https://silverlightweb.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 
 # User settings
-username: silverlightweb
+username: Phuong Nguyen 
 user_title: Phuong Nguyen (SilverlightWeb2008) - Web Developer
 email: jamebond.nguyen@gmail.com
 twitter_username: silverlightweb
