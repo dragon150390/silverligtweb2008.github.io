@@ -63,9 +63,9 @@ projects:
   - name: tensorflow_learning 
     url: https://github.com/silverlightweb/tensoflow_learning
   - name: Machine learning
-    url: 
+    url: https://github.com/silverlightweb/visualizing-geospatial-data-on-python
   - name: Data visualize
     url: https://github.com/silverlightweb/visualizing-geospatial-data-on-python
 
 # exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
+#exclude: ['package.json', 'src', 'node_modules']
