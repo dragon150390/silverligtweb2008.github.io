@@ -59,11 +59,13 @@ links:
 # projects in header index
 projects:
   - name: CNN 
-    url: 
+    url: https://github.com/silverlightweb/CNN-for-the-image-process
   - name: tensorflow_learning 
-    url: 
+    url: https://github.com/silverlightweb/tensoflow_learning
   - name: Machine learning
     url: 
+  - name: Data visualize
+    url: https://github.com/silverlightweb/visualizing-geospatial-data-on-python
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
